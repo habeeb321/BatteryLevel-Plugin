@@ -1,7 +1,7 @@
-name: battery_level
+name: battery_percentage
 description: A package for getting battery level of your device.
 version: 0.0.1
-homepage:
+homepage: https://github.com/habeeb321/BatteryLevel-Plugin
 
 environment:
   sdk: '>=2.19.6 <3.0.0'

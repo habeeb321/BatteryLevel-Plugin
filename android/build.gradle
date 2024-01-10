@@ -1,4 +1,4 @@
-group 'com.rudderstack.battery_level'
+group 'com.rudderstack.battery_percentage'
 version '1.0'
 
 buildscript {

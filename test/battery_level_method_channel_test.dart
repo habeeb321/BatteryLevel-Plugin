@@ -1,6 +1,6 @@
+import 'package:battery_percentage/battery_level_method_channel.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:battery_level/battery_level_method_channel.dart';
 
 void main() {
   MethodChannelBatteryLevel platform = MethodChannelBatteryLevel();
