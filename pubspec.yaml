@@ -1,6 +1,6 @@
 name: battery_percentage
-description: A package for getting battery level of your device.
-version: 0.0.1
+description: The "battery_percentage" Flutter plugin is a powerful addition to your Flutter applications, designed to enhance user experience by providing real-time information about the device's battery status.
+version: 0.0.2
 homepage: https://github.com/habeeb321/BatteryLevel-Plugin
 
 environment:
